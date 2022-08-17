@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### 🔭 I’m currently working on Flutter and Dart
-### 🌱 I’m currently learning Flutter, Web3 and Dart
+### 🔭 I’m currently working on Flutter , Dart and IOS Development
+### 🌱 I’m currently learning Flutter, swift ,swiftUI, 
 
 ### 🤔 I’m looking for help with Web3
 ### 💬 Ask me about Flutter and Dart
