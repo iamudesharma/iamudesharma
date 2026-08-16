@@ -247,7 +247,20 @@ Enterprise AI
 # 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iamudesharma/iamudesharma/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/iamudesharma/iamudesharma/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/iamudesharma/iamudesharma/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/iamudesharma/iamudesharma/output/github-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
