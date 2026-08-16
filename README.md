@@ -4,156 +4,149 @@
 
 **Backend • AI & Agent Systems • Flutter • Developer Platforms**
 
-I’m a Software Engineer focused on building **enterprise AI platforms, backend systems, AI agents, workflow automation, and production-grade Flutter applications**.
+I build **enterprise AI platforms, backend systems, AI agents, workflow automation, and production-grade Flutter applications**.
 
-My current work sits at the intersection of **Backend Engineering and Generative AI**, with a focus on designing reliable APIs, AI workflows, tool-enabled agents, real-time systems, and developer-friendly platforms.
+My work sits at the intersection of **Backend Engineering, Generative AI, real-time systems, and developer platforms** — from scalable APIs and AI orchestration to local AI, voice agents, Rust-powered tooling, and cross-platform applications.
 
-I also build and maintain **open-source Flutter/Dart projects**, particularly around media processing, AI tooling, and high-performance native integrations.
-
----
-
-## 🚀 What I Build
-
-- 🤖 **AI & Agent Systems** — LLM applications, AI agents, tool calling, orchestration, guardrails and workflow automation
-- 🏢 **Enterprise AI Platforms** — scalable backend services and reusable AI infrastructure
-- ⚡ **Backend Systems** — Django, FastAPI, REST APIs, WebSockets and distributed services
-- 🧠 **Generative AI** — LLM integration, prompt engineering, RAG/workflow patterns and model orchestration
-- 📱 **Flutter & Dart** — cross-platform applications, reusable packages and real-time experiences
-- 🦀 **High-Performance Systems** — Rust, FFI, Flutter Rust Bridge, GPU-accelerated processing and native integrations
-- 🎙️ **Voice AI** — real-time speech pipelines, local STT/TTS, WebRTC and voice agents
-- 🔧 **Developer Platforms** — reusable SDKs, frameworks, tooling and automation
+<p align="left">
+  <a href="https://github.com/iamudesharma">
+    <img src="https://komarev.com/ghpvc/?username=iamudesharma&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/iamudesharma?tab=followers">
+    <img src="https://img.shields.io/github/followers/iamudesharma?label=Followers&style=flat" alt="GitHub followers" />
+  </a>
+</p>
 
 ---
 
-## ⭐ Featured Projects
+## ⚡ What I Build
 
-### 🎙️ [ClinicGuard](https://github.com/iamudesharma/clinicguard)
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI & Agents
+- LLM applications
+- AI agents & tool calling
+- Agent orchestration
+- RAG & knowledge systems
+- Workflow automation
+- AI guardrails
+- Voice AI
+- Local / on-device AI
+
+</td>
+<td width="50%">
+
+### 🏢 Backend & Platforms
+- Django & FastAPI
+- REST APIs
+- WebSockets
+- Distributed systems
+- PostgreSQL
+- Workflow engines
+- Enterprise integrations
+- Developer platforms
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📱 Flutter & Dart
+- Cross-platform applications
+- Real-time applications
+- Riverpod
+- WebRTC
+- Native integrations
+- Reusable packages
+- AI-powered apps
+
+</td>
+<td width="50%">
+
+### 🦀 Systems & Performance
+- Rust
+- Flutter Rust Bridge
+- FFI
+- GPU acceleration
+- Media pipelines
+- FFmpeg
+- Metal / Vulkan
+- High-performance workloads
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⭐ Featured Projects
+
+> Three projects currently featured on my GitHub profile.
+
+### 🎙️ ClinicGuard
 
 **Multilingual Voice AI Clinical Triage**
 
-A low-latency voice AI system built with Flutter and Dart, featuring a **100% Dart voice-agent framework**, real-time WebRTC communication, local speech processing and LLM integration.
+A low-latency voice AI system built around Flutter and Dart, including a **100% Dart voice-agent stack**, real-time communication, local speech processing and LLM-powered workflows.
 
-**Highlights:**
-- English + Hindi voice interaction
-- Real-time voice agent with barge-in support
-- WebRTC-based communication
-- Local VAD / STT / TTS
-- Tool-driven clinical triage workflows
-- Flutter client for iOS, Android, Web and macOS
-- Published `voice_forge` and `voice_forge_flutter` packages
+**Highlights**
 
-**Tech:** `Dart` `Flutter` `WebRTC` `AI Agents` `STT` `TTS` `LLMs` `sherpa-onnx`
+- 🇮🇳 English + Hindi interaction
+- 🎙️ Real-time voice agent
+- 🔄 Barge-in / interruption support
+- 🌐 WebRTC communication
+- 🧠 Local STT / VAD / TTS
+- 🛠️ Tool-driven agent workflows
+- 📱 Cross-platform Flutter client
+- 📦 Reusable Dart voice packages
+
+`Dart` `Flutter` `WebRTC` `AI Agents` `STT` `TTS` `LLMs`
 
 ---
 
-### 🎬 [MediaForge](https://github.com/iamudesharma/mediaforge)
+### 🎬 MediaForge
 
 **High-Performance Flutter Media Processing**
 
-A cross-platform media processing toolkit combining **Flutter, Rust, FFmpeg and GPU acceleration** for image and video workflows.
+A cross-platform media processing ecosystem combining **Flutter, Rust, FFmpeg and GPU acceleration** for image and video workflows.
 
-**Highlights:**
-- Rust-powered image and video processing
-- Flutter Rust Bridge integration
-- GPU compute with `wgpu`
-- Metal / Vulkan acceleration
-- Image filters, transformations and compression
-- Video processing and playback infrastructure
-- Reusable Flutter packages and editor components
-- Benchmarking and native performance optimization
+**Highlights**
 
-**Tech:** `Flutter` `Dart` `Rust` `FFmpeg` `Flutter Rust Bridge` `wgpu` `Metal` `Vulkan`
+- 🦀 Rust processing engine
+- 🌉 Flutter Rust Bridge
+- ⚡ GPU compute
+- 🎨 Image processing
+- 🎥 Video processing
+- 🔧 Native platform integrations
+- 🧩 Reusable Flutter packages
+- 📊 Performance-focused architecture
+
+`Flutter` `Dart` `Rust` `FFmpeg` `wgpu` `Metal` `Vulkan`
 
 ---
 
-### 🎤 [Dictator](https://github.com/iamudesharma/dictator)
+### 🎤 Dictator
 
 **Offline AI Voice Dictation for macOS**
 
-An offline-first voice dictation application combining local speech recognition and language models for fast desktop voice input.
+An offline-first voice dictation application combining **local speech recognition and language models** for fast desktop voice input.
 
-**Tech:** `Flutter` `Dart` `Whisper` `Gemma` `Nemotron` `On-device AI`
+**Highlights**
 
----
+- 🔒 Offline-first architecture
+- 🎙️ Local speech recognition
+- 🧠 On-device AI
+- ⚡ Fast voice-to-text workflow
+- 🖥️ Native macOS experience
 
-## 🧠 AI & Backend
-
-I work primarily with:
-
-**AI / Agents**
-- Generative AI
-- AI Agents & Tool Calling
-- LLM Orchestration
-- LangChain
-- Prompt Engineering
-- Workflow Automation
-- RAG & Knowledge Retrieval
-- Guardrails & AI Safety
-- Document Intelligence
-- Voice AI
-- Local / On-device AI
-
-**Backend**
-- Python
-- Django
-- FastAPI
-- REST APIs
-- WebSockets
-- API Design
-- Distributed Systems
-- Workflow Engines
-- PostgreSQL
-- Redis
-
-**Cloud & Infrastructure**
-- Azure
-- Azure OpenAI
-- Docker
-- Linux
-- Git
-- CI/CD
+`Flutter` `Dart` `Whisper` `Gemma` `On-device AI`
 
 ---
 
-## 📱 Flutter & Dart
-
-I have a strong background in Flutter and continue to build cross-platform applications and reusable packages.
-
-- Flutter
-- Dart
-- Riverpod
-- BLoC
-- WebRTC
-- Flutter Rust Bridge
-- Native platform integrations
-- Real-time applications
-- Media processing
-- AI-powered mobile applications
-
----
-
-## 🦀 Systems & Performance
-
-I'm particularly interested in combining high-level application development with native systems programming.
-
-```text
-Flutter / Dart
-      │
-      ├── AI & Agent Layer
-      │
-      ├── Backend APIs
-      │
-      └── Rust / Native Layer
-              │
-              ├── FFI
-              ├── GPU
-              ├── Media Processing
-              └── High-performance workloads
-```
-
----
-
-## 🛠️ Technology Stack
+# 🧠 Technology Stack
 
 ### Languages
 
@@ -163,52 +156,119 @@ Flutter / Dart
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### Backend & AI
+### Backend
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### AI
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ### Flutter & Native
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-0A84FF?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
 
-### Cloud & Tools
+### Infrastructure
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🌱 Currently Exploring
+# 📊 GitHub Activity
 
-- Enterprise AI Agent architectures
-- Multi-agent and tool-driven workflows
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=iamudesharma&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamudesharma&layout=compact&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iamudesharma&hide_border=true" />
+</p>
+
+---
+
+# 🧩 Engineering Interests
+
+```text
+Enterprise AI
+      │
+      ├── AI Agents
+      │     ├── Tool Calling
+      │     ├── RAG
+      │     ├── Orchestration
+      │     └── Guardrails
+      │
+      ├── Backend
+      │     ├── Django
+      │     ├── FastAPI
+      │     ├── PostgreSQL
+      │     └── Real-time Systems
+      │
+      ├── Voice AI
+      │     ├── STT
+      │     ├── TTS
+      │     ├── WebRTC
+      │     └── Local Models
+      │
+      └── Native Performance
+            ├── Rust
+            ├── FFI
+            ├── GPU
+            └── Media Processing
+```
+
+---
+
+# 🔭 Currently Exploring
+
+- Enterprise AI agent architectures
+- Streaming LLM + tool-call systems
 - Real-time voice agents
 - Local and on-device AI
-- LLM streaming and tool-call orchestration
 - RAG and knowledge systems
-- Rust + Flutter native architectures
+- Rust + Flutter architectures
 - GPU-accelerated media processing
-- High-performance backend systems
-- Reusable developer SDKs and frameworks
+- High-performance backend services
+- Reusable SDKs and developer frameworks
 
 ---
 
-## 📫 Connect
+# 🐍 Contribution Graph
 
-[![GitHub](https://img.shields.io/badge/GitHub-iamudesharma-181717?style=flat-square&logo=github)](https://github.com/iamudesharma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Udesh%20Sharma-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/udeshsharma)
-[![Website](https://img.shields.io/badge/Website-udesharma.me-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://udesharma.me)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamudesharma/iamudesharma/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
 
 ---
 
-### 💡 Building at the intersection of AI, Backend & Developer Platforms.
+# 📫 Connect
 
-*Always interested in building things that are fast, useful, and production-ready.*
+<p align="left">
+  <a href="https://github.com/iamudesharma">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/udeshsharma">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building at the intersection of AI, Backend & Developer Platforms.</i>
+</p>
+
+<p align="center">
+  <b>⚡ Build fast. Think deeply. Ship production-ready software.</b>
+</p>
